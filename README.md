@@ -12,16 +12,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-[<img align="left" alt="codeSTACKr | Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
-[<img align="left" alt="codeSTACKr | Weebly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/weebly.svg" />][weebly]
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="codeSTACKr | Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />][linktree]
-[<img align="left" alt="codeSTACKr | About.me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutme]
-[<img align="left" alt="codeSTACKr | Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gravatar.svg" />][gravatar]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Rumble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rumble.svg" />][rumble]
-[<img align="left" alt="codeSTACKr | Audiomack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/audiomack.svg" />][audiomack]
+[<img align="left" alt="WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+[<img align="left" alt="Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
+[<img align="left" alt="Weebly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/weebly.svg" />][weebly]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />][linktree]
+[<img align="left" alt="About.me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutme]
+[<img align="left" alt="Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gravatar.svg" />][gravatar]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Rumble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rumble.svg" />][rumble]
+[<img align="left" alt="Audiomack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/audiomack.svg" />][audiomack]
+
 
 
 <br />
@@ -39,6 +40,7 @@
 
 ---
 
+<br>
 
 [website]: https://yourwebsite.com
 [youtube]: https://youtube.com/yourchannel
