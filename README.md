@@ -57,4 +57,4 @@
 [gravatar]: https://gravatar.com/sydneyprimebounce
 [rumble]: https://rumble.com/c/c-6815589
 [audiomack]: https://audiomack.com/jumping-castle-hire-sydney
-[pinterest]: https://au.pinterest.com/pin/950541065100221820/ 
+[pinterest]: https://au.pinterest.com/Sydneyprimebounce/
