@@ -39,7 +39,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-?? [more blog posts...](https://about.me/Sydneyprimebounce)
+###[more blog posts...](https://about.me/Sydneyprimebounce)
 
 ---
 </br>
