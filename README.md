@@ -22,6 +22,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![Rumble](https://img.shields.io/badge/Rumble-0C4A7D?style=for-the-badge&logo=rumble&logoColor=white)][rumble]
 [![Audiomack](https://img.shields.io/badge/Audiomack-FF8800?style=for-the-badge&logo=audiomack&logoColor=white)][audiomack]
+[<img align="left" alt="Pinterest" width="22px" src="https://img.icons8.com/ios-filled/50/000000/pinterest.png" />][pinterest]
+
 
 
 
@@ -43,17 +45,16 @@
 </br>
 <br>
 
-[website]: https://yourwebsite.com
-[youtube]: https://youtube.com/yourchannel
-[twitter]: https://twitter.com/yourprofile
-[linkedin]: https://linkedin.com/in/yourprofile
-[instagram]: https://instagram.com/yourprofile
-[wordpress]: https://yourwordpresssite.com
-[tumblr]: https://yourtumblrprofile.com
-[weebly]: https://yourweeblyprofile.com
-[medium]: https://medium.com/@yourprofile
-[linktree]: https://linktr.ee/yourprofile
-[aboutme]: https://about.me/yourprofile
-[gravatar]: https://gravatar.com/yourprofile
-[rumble]: https://rumble.com/c/yourchannel
-[audiomack]: https://audiomack.com/yourprofile
+[website]: https://sydneyprimebounce.com.au
+[youtube]: https://www.youtube.com/@Sydney-Prime-Bounce
+[twitter]: https://x.com/sydneyprimesyd
+[wordpress]: https://sydneyprimebounce.wordpress.com/
+[tumblr]: https://sydney-prime-bounce.tumblr.com/
+[weebly]: https://jumping-castle-hire.weebly.com
+[medium]: https://jumpingcastlehiresydney.medium.com
+[linktree]: https://linktr.ee/Jumping_castle_hire_sydney
+[aboutme]: https://about.me/Sydneyprimebounce
+[gravatar]: https://gravatar.com/sydneyprimebounce
+[rumble]: https://rumble.com/c/c-6815589
+[audiomack]: https://audiomack.com/jumping-castle-hire-sydney
+[pinterest]: https://au.pinterest.com/pin/950541065100221820/ 
