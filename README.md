@@ -12,16 +12,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-[<img align="left" alt="Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
-[<img align="left" alt="Weebly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/weebly.svg" />][weebly]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />][linktree]
-[<img align="left" alt="About.me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutme]
-[<img align="left" alt="Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gravatar.svg" />][gravatar]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Rumble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rumble.svg" />][rumble]
-[<img align="left" alt="Audiomack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/audiomack.svg" />][audiomack]
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)][wordpress]
+[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white)][tumblr]
+[![Weebly](https://img.shields.io/badge/Weebly-38A1DB?style=for-the-badge&logo=weebly&logoColor=white)][weebly]
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)][linktree]
+[![About.me](https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=about.me&logoColor=white)][aboutme]
+[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)][gravatar]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Rumble](https://img.shields.io/badge/Rumble-0C4A7D?style=for-the-badge&logo=rumble&logoColor=white)][rumble]
+[![Audiomack](https://img.shields.io/badge/Audiomack-FF8800?style=for-the-badge&logo=audiomack&logoColor=white)][audiomack]
+
 
 
 
@@ -30,7 +31,7 @@
 ---
 
 ---
-
+<br>
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -39,7 +40,7 @@
 ?? [more blog posts...](https://about.me/Sydneyprimebounce)
 
 ---
-
+</br>
 <br>
 
 [website]: https://yourwebsite.com
