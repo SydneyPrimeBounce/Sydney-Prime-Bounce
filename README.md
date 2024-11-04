@@ -1,15 +1,6 @@
 ### Welcome to Sydney Prime Bounce
 ## The premier jumping castle hire company in Sydney, Australia. We are passionate about bringing joy and excitement to your events with our wide range of vibrant, fun-filled jumping castles. Our team is dedicated to providing top-notch customer service and ensuring every aspect of your experience is seamless and enjoyable.
 
-
-
-- ?? We provide Residential and commercial cleaning services.
-- ?? I’m currently learning everything ??
-- ?? I’m looking to collaborate with other content creators
-- ?? 2020 Goals: Contribute more to Open Source projects
-- ? Fun fact: I love to draw and play guitar / drums
-
-
 ### Connect with me:
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)][wordpress]
@@ -34,7 +25,7 @@
 
 ---
 <br>
-### ?? Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Jumping Castle Hire Sydney](https://jumpingcastlehiresydney.medium.com/jumping-castle-hire-sydney-22978b9d8e43?source=rss-c91eb25f37c6------2)
