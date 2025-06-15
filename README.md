@@ -28,11 +28,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cheap Jumping Castle Hire](https://sydneyprimebounce.wordpress.com/2024/11/04/cheap-jumping-castle-hire-2/)
 - [cheap jumping castle hire](https://jumpingcastlehiresydney.medium.com/cheap-jumping-castle-hire-aabb55e16332?source=rss-c91eb25f37c6------2)
 - [Jumping Castle Hire Sydney](https://jumpingcastlehiresydney.medium.com/jumping-castle-hire-sydney-22978b9d8e43?source=rss-c91eb25f37c6------2)
 - [Privacy Policy for Sydney Prime Bounce](https://jumpingcastlehiresydney.medium.com/privacy-policy-for-sydney-prime-bounce-3ce934e92551?source=rss-c91eb25f37c6------2)
 - [Contact Us](https://jumpingcastlehiresydney.medium.com/contact-us-d01163a6a375?source=rss-c91eb25f37c6------2)
-- [Bouncy Castle Hire](https://jumpingcastlehiresydney.medium.com/bouncy-castle-hire-b20e98d1edac?source=rss-c91eb25f37c6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###[more blog posts...](https://about.me/Sydneyprimebounce)
